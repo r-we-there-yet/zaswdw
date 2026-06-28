@@ -1,0 +1,15 @@
+{
+  "name": "7.axc_1",
+  "version": "1.0.0",
+  "description": "Tex selfbot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.3.2",
+    "axios": "^1.6.0",
+    "node-fetch": "^2.7.0"
+  }
+}
